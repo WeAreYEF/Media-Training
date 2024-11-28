@@ -124,7 +124,7 @@ At the end of the training:
 ---
 
 ## **Credit**  
-This OER is a template created by the Youth Empowerment Foundation Under the ASKnet project (Mentor Her) that aims to empower women with different skills to make them self relient and exposed to the world of technology.
+This OER is a template created by the Youth Empowerment Foundation Under the ASKnet project (Mentor Her) that aims to empower women with different skills to make them self relient and exposed to the world of technology. The training was facilitated by  [Bazio Doreen Lelega](https://lead.asknet.community/profiles/Bazio-Doreen-Lelega/ ) 
 This training was implemented by Youth Empowerment Foundation in collaboration with Creative Innovative Center (CIC). This project is supported by r0g agency Germany.
 
 
