@@ -1,7 +1,4 @@
-# Media Production Training for Young Women and Teenage Mothers  
-**Implemented by:** Youth Empowerment Foundation (YEF) and Creative Innovative Centre (CIC)  
-
----
+# Media Training for Young Women and Teenage Mothers  
 
 ## **Table of Contents**  
 
