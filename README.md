@@ -11,7 +11,7 @@
 7. [Step-by-Step Guide](#step-by-step-guide)  
 8. [Evaluation and Feedback](#evaluation-and-feedback)  
 9. [Licensing and References](#licensing-and-references)  
-10.[Gallery from the training](#Gallery)  
+10.[Gallery from the training](#Gallery/)  
 ---
 
 ## **Overview**  
