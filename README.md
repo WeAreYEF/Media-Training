@@ -11,7 +11,7 @@
 7. [Step-by-Step Guide](#step-by-step-guide)  
 8. [Evaluation and Feedback](#evaluation-and-feedback)  
 9. [Licensing and References](#licensing-and-references)  
-
+10.[Gallery from the training](#Gallery)  
 ---
 
 ## **Overview**  
@@ -19,7 +19,7 @@
 The Media Production Training program is designed to empower young women and teenage mothers in the Pagirinya Refugee Settlement by equipping them with skills in media and communication. The initiative seeks to build confidence, improve livelihoods, and inspire these women to use media for personal and community development.  
 
 ---
-
+![photo_2024-11-29_10-29-30](https://github.com/user-attachments/assets/23546dfd-667b-4cdf-ae3e-9e14cdc5ddc1)
 ## **Learning Objectives**  
 
 The **MentorHer Project** aims to:  
@@ -50,8 +50,7 @@ Participants are expected to achieve:
    - Led by a facilitator and supported by the project manager.  
    - Reports and summaries compiled using photos and videos of the sessions.  
 
----
-
+![photo_2024-11-29_10-28-15](https://github.com/user-attachments/assets/c40f0235-e787-4314-97a9-24fffe577c0d)
 
 ### Topics Covered During Media Production Training  
 
@@ -81,7 +80,7 @@ Participants are expected to achieve:
 |           | 11:00am–12:00pm  | Motivation/Inspirational Hour          |  
 |           | 12:00pm–1:00pm   | Open discussion (Girl Talk)            |  
 
-... (Continue the schedule for Week One and Week Two as in the provided table).  
+... (Use the schedule for Week One and Week Two as in the provided table).  
 
 ---
 
@@ -126,5 +125,6 @@ At the end of the training:
 ## **Credit**  
 This OER is a template created by the Youth Empowerment Foundation Under the ASKnet project (Mentor Her) that aims to empower women with different skills to make them self relient and exposed to the world of technology. The training was facilitated by  [Bazio Doreen Lelega](https://lead.asknet.community/profiles/Bazio-Doreen-Lelega/ ) 
 This training was implemented by Youth Empowerment Foundation in collaboration with Creative Innovative Center (CIC). This project is supported by r0g agency Germany.
+
 
 
